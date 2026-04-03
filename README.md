@@ -1,5 +1,10 @@
 # Customer Churn Analysis
 
+## Dashboard Preview
+![Overview](screenshot1.png)
+![Segmentation](screenshot2.png)
+![Financial Profile](screenshot3.png)
+
 ## Project Overview
 This project analyzes customer churn behavior for a 
 bank with 10,000 customers across France, Germany, 
