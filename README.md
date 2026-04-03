@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 ## Dashboard Preview
-![Overview]([screenshot1.png])
+![Overview]([[screenshot1.png]](https://github.com/mohinimishal9-tech/customer-churn-analysis/blob/main/screenshot1.png.png))
 ![Segmentation](screenshot2.png)
 ![Financial Profile](screenshot3.png)
 
