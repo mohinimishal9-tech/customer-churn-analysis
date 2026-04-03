@@ -1,9 +1,9 @@
 # Customer Churn Analysis
 
 ## Dashboard Preview
-![Overview]([[screenshot1.png]](https://github.com/mohinimishal9-tech/customer-churn-analysis/blob/main/screenshot1.png.png))
-![Segmentation](screenshot2.png)
-![Financial Profile](screenshot3.png)
+![Overview](https://github.com/mohinimishal9-tech/customer-churn-analysis/blob/main/overview.png?raw=true)
+![Segmentation](https://github.com/mohinimishal9-tech/customer-churn-analysis/blob/main/segmentation.png?raw=true)
+![Financial Profile](https://github.com/mohinimishal9-tech/customer-churn-analysis/blob/main/financial.png?raw=true)
 
 ## Project Overview
 This project analyzes customer churn behavior for a 
