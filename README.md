@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 ## Dashboard Preview
-![Overview](screenshot1.png)
+![Overview]([screenshot1.png])
 ![Segmentation](screenshot2.png)
 ![Financial Profile](screenshot3.png)
 
